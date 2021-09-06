@@ -1,4 +1,4 @@
-# Teste Tencnigo do programa de estágio Framework Padawans
+# Teste técnico do programa de estágio Framework Padawans
 <h2>Objetivo 
 </h2>
 <p>Construir um menu com 3 telas que devem conter uma tabela para listar POSTAGENS, ALBUNS, e TO-DOs respectivamente. Deve utilizar a API publicada em https://jsonplaceholder.typicode.com/
